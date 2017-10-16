@@ -1,0 +1,63 @@
+E:\CECS 475\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+E:\CECS 475\Lab4\Lab4\bin\Debug\Books.mdf
+E:\CECS 475\Lab4\Lab4\bin\Debug\Books_log.ldf
+E:\CECS 475\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\CECS 475\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\CECS 475\Lab4\Lab4\bin\Debug\EntityFramework.dll
+E:\CECS 475\Lab4\Lab4\bin\Debug\EntityFramework.xml
+E:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\CECS 475\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\CECS 475\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\Books.mdf
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\Books_log.ldf
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\John\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\John\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.exe
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.pdb
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books.mdf
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books_log.ldf
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.pdb
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe.config
+D:\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.exe
+D:\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.pdb
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books.mdf
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books_log.ldf
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.pdb
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.dll
+D:\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.xml
+D:\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books.mdf
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Books_log.ldf
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.exe
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\Lab4.pdb
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.exe
+C:\Users\John\Desktop\Software Projects\CECS475\LAB 5\Part 1\Lab4\obj\Debug\Lab4.pdb
